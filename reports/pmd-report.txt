@@ -1,0 +1,8 @@
+src/main/java/com/org/Addition.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/org/Addition.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/org/Addition.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/org/Addition.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'number1' is not assigned and could be declared final
+src/main/java/com/org/Addition.java:5:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'number2' is not assigned and could be declared final
+src/main/java/com/org/Addition.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/org/Addition.java:11:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'addition' could be declared final
+src/main/java/com/org/Addition.java:12:	SystemPrintln:	SystemPrintln: Usage of System.out/err
